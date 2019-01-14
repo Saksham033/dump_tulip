@@ -56,7 +56,6 @@
 
     <!-- Virtual Providers in Belgium -->
     <spn numeric="20601" condition="alpha;imsi:20601889xxxxxxx" alpha="Telenet" short="Telenet" mvno="true"/>
-    <spn numeric="20601" condition="imsi:206018017xxxxxx" alpha="Virgin Media UK" short="Virgin Media UK" mvno="true"/>
 
     <!-- Providers in France -->
     <spn numeric="20801" alpha="Orange F" short="Orange F" />
@@ -77,9 +76,6 @@
 
     <!-- Providers in India -->
     <spn numeric="40417,40441,40491" alpha="Aircel" short="Aircel" condition="numericSpn"/>
-
-    <!-- Providers in Myanmar-->
-    <spn numeric="41401" alpha="MPT" short="MPT" />
 
     <!-- Providers in France-->
     <spn numeric="20815" alpha="Free" short="Free" />

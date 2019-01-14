@@ -14,8 +14,8 @@ ro.debuggable=0
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Thu Dec 20 01:45:06 WIB 2018
-ro.bootimage.build.date.utc=1545245106
-ro.bootimage.build.fingerprint=xiaomi/tulip/tulip:8.1.0/OPM1.171019.011/8.12.20:user/release-keys
+ro.bootimage.build.date=Wed Jan 2 17:02:02 WIB 2019
+ro.bootimage.build.date.utc=1546423322
+ro.bootimage.build.fingerprint=xiaomi/tulip/tulip:8.1.0/OPM1.171019.011/V10.2.1.0.OEKMIXM:user/release-keys
 persist.sys.usb.config=none
 
